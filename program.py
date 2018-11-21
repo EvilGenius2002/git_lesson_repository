@@ -1,3 +1,3 @@
 # It's only a model...
-print("My first Git program!!!!????")
+print("We are the Knights of the Round Table!")
 # Just a flesh wound
